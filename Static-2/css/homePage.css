@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #242633;
+    color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Arial', Helvetica, sans-serif;
+    text-align: center;
+    flex-grow: 1;
+}
+
+#site_logo {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+
+nav {
+    text-align: right;
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 0.5rem;
+    color: white;
+}
+
+nav a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+
+/* Article and aside */
+main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 0 5rem 0;
+    overflow-y: auto;
+    height: calc(100vh - 10%);
+
+}
+
+article,
+aside {
+    flex: 1;
+    margin: 1rem;
+    border: 1px solid #242633;
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+article{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+aside {
+    color: #242633;
+    max-width: 400px;
+    max-height: 300px;
+}
+
+aside nav{
+    text-align: left;
+    display: block;
+}
+
+aside nav a {
+    color: #242633;
+}
+
+@media screen and (max-width: 600px) {
+    article,
+    aside {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+    article{
+        margin-bottom: 50px;
+    }
+    aside {
+        order: -1;
+    }
+}
+@media screen and (max-width: 650px) {
+    header {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    #site_logo {
+        flex-basis: 200px;
+    }
+    
+    h1 {
+        flex-basis: calc(100% - 200px);
+    }
+}
+
+/* Footer */
+footer {
+    box-sizing: border-box;
+    background-color: #242633;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    justify-content: space-between;
+}
+#footer_site_logo {
+    width: 60px;
+    height: auto;
+    margin: 0px;
+}
