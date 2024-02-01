@@ -1,1 +1,1 @@
-Practice of HTML5, CSS, Bootstrap, JQuery, JavaScript
+Practice codes for HTML5, CSS, Bootstrap, JQuery, JavaScript
