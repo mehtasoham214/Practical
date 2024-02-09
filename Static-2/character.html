@@ -8,34 +8,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <link rel="stylesheet" href="./css/homePage.css">
-    <style>
-        .character-card {
-            margin:30px 0 30px 0;
-        }
-        #char1 {
-            height: 400px;
-            object-fit: contain;
-            padding: 25px 0 10px 0;
-        }
-        #carouselIndicators {
-            margin-top: 30px;
-            max-width: 600px;
-            height: 400px;
-            overflow: hidden;
-        }
-
-        .carousel-item img {
-            width: 100%; 
-            height: 100%;
-            object-fit: contain;
-        }
-    </style>
+    <link rel="stylesheet" href="./css/character.css">
 </head>
-<script>
-    $('.carousel').carousel({
-        interval: 1000
-    })
-</script>
 <body>
     <header>
         <img src="./logo/logo.png" alt="Logo" id="site_logo">
@@ -55,16 +29,20 @@
                     <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
                     <li data-target="#carouselIndicators" data-slide-to="1"></li>
                     <li data-target="#carouselIndicators" data-slide-to="2"></li>
+                    <li data-target="#carouselIndicators" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="https://t3.ftcdn.net/jpg/03/26/22/48/360_F_326224870_vB8XRJbWr0qDG5bhAomLjVlKzcUXPdKA.jpg" alt="First slide">
+                        <img src="./images/img-1.jpg" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="https://as2.ftcdn.net/v2/jpg/04/58/25/05/1000_F_458250594_elQGIK9nL7UsVGMHgpLKyuHsagyMqBtk.jpg" alt="Second slide">
+                        <img src="./images/img-2.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="https://as2.ftcdn.net/v2/jpg/05/72/74/29/1000_F_572742916_qPTAW8xsyveTqP2qyrDkSQ0HozkHj4cZ.jpg" alt="Third slide">
+                        <img src="./images/img-3.jpg" alt="Third slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./images/img-4.jpg" alt="Forth slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
