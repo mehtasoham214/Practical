@@ -21,7 +21,7 @@ Overall, the page has a clean and modern design, with a white background and blu
             <br>HTML
         </td>
         <td align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Icon" width="50px">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Icon" width="36px">
             <br>CSS
         </td>
         <td align="center">
