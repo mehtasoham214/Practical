@@ -40,7 +40,7 @@ You can clone the repository and open the `index.html` file in your browser to v
  
 ## Screenshots
 
-![Screenshot 1](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Static-2/image.png)
-![Screenshot 2](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Static-2/image-1.png)
-![Screenshot 3](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Static-2/image-2.png)
-![Screenshot 4](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Static-2/image-3.png)
+![Screenshot 1](https://github.com/mehtasoham214/Practical/blob/main/screenshots/Static-2/image.png)
+![Screenshot 2](https://github.com/mehtasoham214/Practical/blob/main/screenshots/Static-2/image-1.png)
+![Screenshot 3](https://github.com/mehtasoham214/Practical/blob/main/screenshots/Static-2/image-2.png)
+![Screenshot 4](https://github.com/mehtasoham214/Practical/blob/main/screenshots/Static-2/image-3.png)

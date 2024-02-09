@@ -35,10 +35,10 @@ Overall, the page has a clean and modern design, with a white background and blu
 
 ### Sample
 
-![Screenshot 1](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Bootstrap/bootstrap-assignment.jpg)
+![Screenshot 1](https://github.com/mehtasoham214/Practical/blob/main/Screenshots/Bootstrap/bootstrap-assignment.jpg)
 
 ### Screenshots
 
-![Screenshot 2](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Bootstrap/image.png)
-![Screenshot 3](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Bootstrap/image-1.png)
-![Screenshot 4](https://github.com/mehtasoham214/Practical/tree/main/screenshots/Bootstrap/image-2.png)
+![Screenshot 2](https://github.com/mehtasoham214/Practical/blob/main/Screenshots/Bootstrap/image.png)
+![Screenshot 3](https://github.com/mehtasoham214/Practical/blob/main/Screenshots/Bootstrap/image-1.png)
+![Screenshot 4](https://github.com/mehtasoham214/Practical/blob/main/screenshots/Bootstrap/image-2.png)
