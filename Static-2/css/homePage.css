@@ -93,6 +93,15 @@ aside nav a {
     aside {
         order: -1;
     }
+    nav a{
+        margin: 0 0.3rem;
+    }
+    carouselIndicators{
+        display: flex;
+    }
+    #carouselIndicators {
+        max-width: 100px;
+    }
 }
 @media screen and (max-width: 650px) {
     header {
